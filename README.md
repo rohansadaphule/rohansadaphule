@@ -1,11 +1,11 @@
-##🚀 Hey there! I'm Rohan Sadaphule
+## 🚀 Hey there! I'm Rohan Sadaphule
 
 💻 Machine Learning Enthusiast | Python Ninja | Comic Fan
 😆 Socially awkward but compensates with bad jokes
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -15,7 +15,7 @@
 
 ---
 
- ##🔍 Where to find me?
+ ## 🔍 Where to find me?
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohansadaphule)
 
