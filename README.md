@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @rohansadaphule
-- 👀 I’m interested in Python and it's applications
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
-- 📫 You can reach me through Gmail at rohansadaphule@gmail.com
-- Reach me here also
+##🚀 Hey there! I'm Rohan Sadaphule
+
+💻 Machine Learning Enthusiast | Python Ninja | Comic Fan
+😆 Socially awkward but compensates with bad jokes
+
+---
+
+##🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+
+![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg)
+
+---
+
+ ##🔍 Where to find me?
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rohansadaphule)
 
