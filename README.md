@@ -9,9 +9,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70px" height="70px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70px" height="70px">   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" width="70px" height="70px">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg" width="70px" height="70px">
+  
 
 
 ---
