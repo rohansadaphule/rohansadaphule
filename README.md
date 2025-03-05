@@ -9,7 +9,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40px" height="40px">
 
 ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg)
 
