@@ -14,8 +14,10 @@
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70px" height="70px">   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" width="70px" height="70px">
 
-  
 
+---
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohansadaphule&show_icons=true&theme=radical)
 
 ---
 
